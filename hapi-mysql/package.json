@@ -1,0 +1,16 @@
+{
+  "name": "hapi-mysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^10.4.1",
+    "hapi-cors-headers": "^1.0.0",
+    "mysql": "^2.9.0"
+  }
+}

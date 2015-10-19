@@ -1,0 +1,24 @@
+.app-content{
+
+    margin-left: 100px;
+}
+
+.addIcon{
+    display: inline;
+}
+
+form{
+    padding: 10px, 30px, 20px, 25px;
+}
+
+.listdemoBasicUsage md-divider {
+  margin-top: 15px;
+  margin-bottom: 10px; }
+
+.datepicker{
+    margin-bottom: 20px;
+}
+.header{
+    color:deeppink;
+    margin-left: 15px;
+}
